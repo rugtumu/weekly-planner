@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Kalkış",
+    "day": "Pazartesi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "color": "#10b981"
+  },
+  {
+    "id": 1,
+    "name": "Kalkış",
+    "day": "Salı",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "color": "#10b981"
+  },
+  {
+    "id": 1,
+    "name": "Kalkış",
+    "day": "Çarşamba",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "color": "#10b981"
+  },
+  {
+    "id": 1,
+    "name": "Kalkış",
+    "day": "Perşembe",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "color": "#10b981"
+  },
+  {
+    "id": 1,
+    "name": "Kalkış",
+    "day": "Cuma",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "color": "#10b981"
+  },
+  {
+    "id": 2,
+    "name": "Kahvaltı",
+    "day": "Pazartesi",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#a855f7"
+  },
+  {
+    "id": 2,
+    "name": "Kahvaltı",
+    "day": "Salı",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#a855f7"
+  },
+  {
+    "id": 2,
+    "name": "Kahvaltı",
+    "day": "Çarşamba",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#a855f7"
+  },
+  {
+    "id": 2,
+    "name": "Kahvaltı",
+    "day": "Cuma",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#a855f7"
+  },
+  {
+    "id": 3,
+    "name": "Spor",
+    "day": "Salı",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#f59e0b"
+  },
+  {
+    "id": 3,
+    "name": "Spor",
+    "day": "Cuma",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#f59e0b"
+  }
+]
