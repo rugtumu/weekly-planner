@@ -2,6 +2,8 @@
 
 Modern, dark themed weekly planner uygulaması. Eventler JSON dosyasından yüklenir.
 
+![Screenshot](ss-for-readme.png)
+
 ## Kurulum
 
 ```bash
