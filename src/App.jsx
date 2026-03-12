@@ -325,12 +325,31 @@ export default function App() {
                 <div className="relative h-full px-[6%] py-[5%] flex items-center justify-between gap-6">
                   <div className="w-[clamp(84px,11vw,148px)] h-[clamp(84px,11vw,148px)]" aria-hidden />
 
-                  <div className="max-w-[70%] ml-auto pr-[3%] text-right">
-                    <h2 className="text-[clamp(22px,3.2vw,42px)] leading-[1.08] font-semibold text-white">
-                      {banner.name}
-                    </h2>
-                    <p className="mt-2 text-[clamp(12px,1.35vw,19px)] text-zinc-200">{banner.title}</p>
-                    <p className="mt-2 text-[clamp(10px,1.05vw,14px)] text-zinc-400">{banner.subtitle}</p>
+                  <div className="ml-auto pr-[3%] flex items-stretch gap-[clamp(10px,1.8vw,22px)]">
+                    <div className="max-w-[84%] text-right self-stretch mr-[clamp(6px,1vw,12px)]">
+                      <h2 className="text-[clamp(22px,3.2vw,42px)] leading-[1.08] font-semibold text-white">
+                        {banner.name}
+                      </h2>
+                      <p className="mt-1 text-[clamp(12px,1.35vw,19px)] text-zinc-200">{banner.title}</p>
+                      <p className="mt-1 text-[clamp(10px,1.05vw,14px)] text-zinc-400">{banner.subtitle}</p>
+                    </div>
+                    <div className="flex flex-col items-center justify-between self-stretch gap-[clamp(2px,0.5vw,6px)]">
+                      <img
+                        src="/image1.png"
+                        alt="Logo 1"
+                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] object-contain"
+                      />
+                      <img
+                        src="/image2.png"
+                        alt="xAI logo"
+                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] object-contain"
+                      />
+                      <img
+                        src="/image3.png"
+                        alt="Boğaziçi Üniversitesi logo"
+                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] object-contain"
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
