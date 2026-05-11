@@ -20,7 +20,7 @@ export default function App() {
   const [banner, setBanner] = useState({
     name: 'Umut Gür',
     title: 'Data Scientist | AI Tutor',
-    subtitle: 'Machine Learning, Market Analysis, Python',
+    subtitle: 'Machine Learning, Technical Analysis, Python',
     accent: '#f59e0b'
   })
 
@@ -335,19 +335,19 @@ export default function App() {
                     </div>
                     <div className="flex flex-col items-center justify-between self-stretch gap-[clamp(2px,0.5vw,6px)]">
                       <img
-                        src="/image1.png"
+                        src="/image1.jpg"
                         alt="Logo 1"
-                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] object-contain"
+                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] rounded-full object-cover"
                       />
                       <img
                         src="/image2.png"
                         alt="xAI logo"
-                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] object-contain"
+                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] rounded-full object-cover"
                       />
                       <img
                         src="/image3.png"
                         alt="Boğaziçi Üniversitesi logo"
-                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] object-contain"
+                        className="w-[clamp(20px,2.8vw,38px)] h-[clamp(20px,2.8vw,38px)] rounded-full object-cover"
                       />
                     </div>
                   </div>
